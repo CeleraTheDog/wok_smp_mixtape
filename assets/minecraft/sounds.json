@@ -1,0 +1,270 @@
+﻿{
+  "music_disc.blocks": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "records/eurobeat/running_in_the_90s"
+      },
+      {
+        "name": "records/eurobeat/gas_gas_gas"
+      },
+      {
+        "name": "records/eurobeat/the_top"
+      },
+      {
+        "name": "records/memesongs/crabrave"
+      },
+      {
+        "name": "records/memesongs/coffin_dance"
+      },
+      {
+        "name": "records/memesongs/heyyeahyeahyeahyeah"
+      },
+      {
+        "name": "records/memesongs/rasputin"
+      },
+      {
+        "name": "records/memesongs/queen_br"
+      },
+      {
+        "name": "records/memesongs/sandstorm"
+      },
+      {
+        "name": "records/memesongs/through_fire_n_flames"
+      },
+      {
+        "name": "records/memesongs/diggy_diggy_hole"
+      },
+      {
+        "name": "records/memesongs/peace_n_tranq"
+      },
+      {
+        "name": "records/memesongs/yakkos_world"
+      },
+      {
+        "name": "records/memesongs/bork_till_u_ded"
+      },
+      {
+        "name": "records/memesongs/down_unda"
+      },
+      {
+        "name": "records/memesongs/eeeaaaooo"
+      },
+      {
+        "name": "records/memesongs/pumped_up_kicks"
+      },
+      {
+        "name": "records/memesongs/happy_happy_joy_joy"
+      },
+      {
+        "name": "records/memesongs/pulcini_pio"
+      },
+      {
+        "name": "records/memesongs/ill_be_there_for_u"
+      },
+      {
+        "name": "records/memesongs/its_tough_to_be_a_god"
+      },
+      {
+        "name": "records/memesongs/jungle_boogie"
+      },
+      {
+        "name": "records/memesongs/big_enough_aaa"
+      },
+      {
+        "name": "records/memesongs/le_internet_medley"
+      },
+      {
+        "name": "records/memesongs/last_surprise"
+      },
+      {
+        "name": "records/memesongs/shooting_stars"
+      },
+      {
+        "name": "records/memesongs/smooth_criminal"
+      },
+      {
+        "name": "records/memesongs/take_on_me"
+      },
+      {
+        "name": "records/memesongs/sound_of_silence"
+      },
+      {
+        "name": "records/memesongs/blinding_lights"
+      },
+      {
+        "name": "records/memesongs/we_are_n_1"
+      },
+      {
+        "name": "records/memesongs/minecraft_on_my_mind"
+      },
+      {
+        "name": "records/notmemes/country_must_be_country_wide"
+      },
+      {
+        "name": "records/notmemes/rolex_on_a_redneck"
+      },
+      {
+        "name": "records/notmemes/budapest"
+      },
+      {
+        "name": "records/notmemes/daft_punk_get_lucky"
+      },
+      {
+        "name": "records/notmemes/daft_punk_harder_better"
+      },
+      {
+        "name": "records/notmemes/daft_punk_one_more_time"
+      },
+      {
+        "name": "records/notmemes/daft_punk_robot_rock"
+      },
+      {
+        "name": "records/notmemes/daft_punk_veridis_quo"
+      },
+      {
+        "name": "records/notmemes/double_baccin"
+      },
+      {
+        "name": "records/notmemes/dreams_lanie"
+      },
+      {
+        "name": "records/notmemes/hit_list"
+      },
+      {
+        "name": "records/notmemes/setheverman_coolest_dad"
+      },
+      {
+        "name": "records/notmemes/setheverman_old_time_road"
+      },
+      {
+        "name": "records/notmemes/daniel_thrasher_igowallah"
+      },
+      {
+        "name": "records/notmemes/d_a_n_c_e"
+      },
+      {
+        "name": "records/notmemes/lova_sosa"
+      },
+      {
+        "name": "records/notmemes/rain_makes_corn"
+      },
+      {
+        "name": "records/notmemes/taylor_swift_maroon"
+      },
+      {
+        "name": "records/notmemes/no_scrubs"
+      },
+      {
+        "name": "records/notmemes/red_hot_chili_peppers_dark_necessities"
+      },
+      {
+        "name": "records/notmemes/stuck_in_the_middle"
+      },
+      {
+        "name": "records/notmemes/girl_talk"
+      },
+      {
+        "name": "records/notmemes/country_girls_at"
+      },
+      {
+        "name": "records/notmemes/friday_night"
+      },
+      {
+        "name": "records/notmemes/what_a_wonderful_world"
+      },
+      {
+        "name": "records/notmemes/abba_dancingqueen"
+      },
+      {
+        "name": "records/notmemes/holgingoutforahero_bonnietyler"
+      },
+      {
+        "name": "records/notmemes/popsmoke_gotitonme"
+      },
+      {
+        "name": "records/notmemes/relax_frankiegoestohollywood"
+      },
+      {
+        "name": "records/notmemes/siames_myway"
+      },
+      {
+        "name": "records/notmemes/thesidh_utopia"
+      },
+      {
+        "name": "records/notmemes/yello_ohyeah"
+      }
+    ]
+  },
+  "music_disc.relic": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "records/memesongs/nvrgonnagiveuup"
+      },
+      {
+        "name": "records/memesongs/relic"
+      },
+      {
+        "name": "records/memesongs/relic"
+      },
+      {
+        "name": "records/memesongs/relic"
+      },
+      {
+        "name": "records/memesongs/relic"
+      },
+      {
+        "name": "records/memesongs/relic"
+      },
+      {
+        "name": "records/memesongs/relic"
+      },
+      {
+        "name": "records/memesongs/relic"
+      },
+      {
+        "name": "records/memesongs/relic"
+      },
+      {
+        "name": "records/memesongs/relic"
+      }
+    ]
+  },
+  "music_disc.11": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "records/halloween/nowhere_king_11"
+      }
+    ]
+  },
+  "music_disc.strad": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "records/turkeyday/tom_cardy_not_quite_xmas"
+      }
+    ]
+  },
+  "music_disc.ward": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "records/halloween/ghostbusters"
+      },
+      {
+        "name": "records/halloween/monster_mash"
+      },
+      {
+        "name": "records/halloween/somebodys_watchin_me"
+      },
+      {
+        "name": "records/halloween/spooky_scary_skelletons"
+      },
+      {
+        "name": "records/halloween/thriller"
+      }
+    ]
+  }
+}
