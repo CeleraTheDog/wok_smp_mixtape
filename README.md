@@ -20,8 +20,49 @@ this whole pack is for fun purposes only ty
 
 yay
 
-all you gotta do is download one of the zip files from the download_pack folder and put it in your resource pack folder
-and you're done 
+all you gotta do is clone this and put it in your resource pack folder
+or download it as a zip, unzip and put the folder in your resource pack folder
+cuz then the hierarchy is kinda messed up
+
+it should be
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+¬wok-mixtape-pack
+
+               ¬assets
+
+               ¬pack.mcmeta
+
+               ¬pack.png
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+but it ends up as 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+¬wok-mixtape-pack
+       
+         ¬wok-mixtape-pack
+                      
+                       ¬assets
+                       
+                       ¬pack.mcmeta
+                       
+                       ¬pack.png
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+                    
+so its kinda an extra directory deep...
+
+idk how to fix the zip thing, i dont even know how to phrase the issue right
+
+
+
+
+
+
+but in case you figure it out
 
 🎉🎉𝕙𝕠𝕠𝕣𝕒𝕪🎉🎉  
 
