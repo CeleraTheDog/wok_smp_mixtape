@@ -91,20 +91,36 @@ here's an example:
     }
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 music_disc.disc.11 - length 1:11
+
 music_disc.disc.mellohi - length 1:36
+
 music_disc.disc.pigstep - length 2:28
+
 music_disc.disc.stal - length 2:30
+
 music_disc.disc.13 - length 2:58
+
 music_disc.disc.5 - length 2:58
+
 music_disc.disc.cat - length 3:05
+
 music_disc.disc.chirp - length 3:05
+
 music_disc.disc.strad - length 3:08
+
 music_disc.disc.otherside - length 3:15
+
 music_disc.disc.mall - length 3:17
+
 music_disc.disc.relic - length 3:38
+
 music_disc.disc.wait - length 3:58 (fades at 3:51)
+
 music_disc.disc.ward - length 4:11
+
 music_disc.disc.blocks - length 5:45 (longest one yet)
+
+
 
 if your song over its assigned disc length it'll cut out at whatever the disc's length is
 e.g. disc 11 is just over a minute so if you assign a yes - roundabout(it's like 8 mins long) to it, it'll cut at the 1:11 minute mark
