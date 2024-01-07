@@ -269,5 +269,13 @@
         "name": "records/halloween/thriller"
       }
     ]
+  },
+  "playsound.outrosong": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "records/outrosong/vudvuzela-zombi"
+      }
+    ]
   }
 }
